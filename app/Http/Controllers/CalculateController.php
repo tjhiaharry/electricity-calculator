@@ -34,7 +34,7 @@ class CalculateController extends Controller
 
         if ($request->device == "") {
             $error = True;
-            return view('welcome', compact('$error'));
+            return view('welcome', compact('error'));
         };
 
         $timeSpan = $timeArray[0] * 3600 + $timeArray[1] * 60 + $timeArray[2];
