@@ -32,7 +32,7 @@ class CalculateController extends Controller
         $timeArray = explode(':', $time);
         $usage = (int)str_replace(',', '', $request->usage);
 
-        if (!empty($device[$request->device]) {
+        if ($request->device == "") {
             $error = True;
             return view('welcome', compact('$error'));
         };
