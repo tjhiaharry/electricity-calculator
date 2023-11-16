@@ -30,7 +30,7 @@
                                 @csrf
                                 <div class="input-group mb-3">
                                     <span class="input-group-text" id="device">Typical Appliance</span>
-                                    <select class="form-select" name="device" id="device">
+                                    <select class="form-select" name="device" id="device" required>
                                         <option selected disabled>Define your own</option>
                                         <option value='zero_watt_bulb'>Zero Watt Bulb</option>
                                         <option value='cfl_bulb'>CFL bulb</option>
@@ -56,14 +56,14 @@
                                     <span class="input-group-text" id="time">Usage</span>
                                     <input type="hidden" name="time" id="timeInput">
                                     <input type="text" id="displayTime" class="form-control" name="time"
-                                        placeholder="00:00:00">
+                                        placeholder="00:00:00" required>
                                 </div>
 
                                 <div class="input-group mb-3">
                                     <span class="input-group-text" id="price">Electricity Price</span>
                                     <span class="input-group-text" id="price">Rp</span>
                                     <input type="text" class="form-control" placeholder="Electricity Price"
-                                        aria-label="Electricity Price" aria-describedby="price" name="usage" id="price"
+                                        aria-label="Electricity Price" aria-describedby="price" name="usage" id="price" required
                                         oninput="formatNumber(this)" />
                                     <span class="input-group-text">per kWh</span>
                                 </div>
