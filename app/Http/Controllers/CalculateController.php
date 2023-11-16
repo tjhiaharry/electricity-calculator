@@ -32,6 +32,11 @@ class CalculateController extends Controller
         $timeArray = explode(':', $time);
         $usage = (int)str_replace(',', '', $request->usage);
 
+        if (!empty($device[$request->device]) {
+            $error = True;
+            return view('welcome', compact('$error'));
+        }
+
         $timeSpan = $timeArray[0] * 3600 + $timeArray[1] * 60 + $timeArray[2];
         $eUsage = $device[$request->device] * ( $timeSpan / 3600 );
         $cost = $eUsage * $usage;
