@@ -92,6 +92,11 @@
             <div class="col-5">
                 <div class="row">
                     <div class="col-10">
+                        @if(!empty($error)
+                            <div class="alert alert-danger" role="alert">
+                                Silahkan Pilih Typical Appliance Dahulu!
+                            </div>
+                        @endif
                         @if(!empty($timeSpan) && !empty($eUsage) && !empty($cost))
                             <div class="mt-5">
                                 <div class="row">
