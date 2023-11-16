@@ -92,7 +92,7 @@
             <div class="col-5">
                 <div class="row">
                     <div class="col-10">
-                        @if(!empty($error)
+                        @if(!empty($error))
                             <div class="alert alert-danger" role="alert">
                                 Silahkan Pilih Typical Appliance Dahulu!
                             </div>
