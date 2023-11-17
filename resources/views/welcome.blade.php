@@ -143,7 +143,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="{{ public_path().'assets/images/team_01.jpg' }}" alt="">
+                        <img src="https://imgur.com/YqJoMOe" alt="">
                         <div class="down-content">
                             <h4>Lamps</h4>
                             <span>-----</span>
