@@ -143,7 +143,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="https://imgur.com/YqJoMOe" alt="">
+                        <img src="https://i.imgur.com/YqJoMOe.jpg" alt="">
                         <div class="down-content">
                             <h4>Lamps</h4>
                             <span>-----</span>
