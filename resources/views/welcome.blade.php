@@ -14,12 +14,12 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/fontawesome.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/templatemo-finance-business.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/owl.css') }}">
 
 </head>
 
@@ -36,56 +36,6 @@
     <!-- ***** Preloader End ***** -->
 
     <!-- Header -->
-    {{-- <header class="">
-		<nav class="navbar navbar-expand-lg">
-			<div class="container">
-				<a class="navbar-brand" href="#">
-					<h2>EcoWeb Calculator</h2>
-				</a>
-				<div class="collapse navbar-collapse" id="navbarResponsive">
-					<ul class="navbar-nav ml-auto">
-						<li class="nav-item">
-							<a class="nav-link" href="#">Home
-								<span class="sr-only">(current)</span>
-							</a>
-						</li>
-						<li class="nav-item active">
-							<a class="nav-link" href="#">Calculator</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#">Our Services</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#">Contact
-								Us</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link"
-								href="#">About</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</nav>
-	</header> --}}
-    {{-- <nav class="navbar fixed-top" style="background-color: #A4C639;">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <h2>Electricity Calculator</h2>
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    <a class="nav-link" href="#">Calculator</a>
-                </div>
-            </div>
-        </div>
-    </nav> --}}
-
     <nav class="navbar navbar-expand-lg fixed-top bg-white shadow-sm">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
@@ -546,14 +496,14 @@
     </script>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
+    <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
 
     <!-- Additional Scripts -->
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/owl.js"></script>
-    <script src="assets/js/slick.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="{{ asset('assets/js/custom.js') }}"></script>
+    <script src="{{ asset('assets/js/owl.js') }}"></script>
+    <script src="{{ asset('assets/js/slick.js') }}"></script>
+    <script src="{{ asset('assets/js/accordions.js') }}"></script>
 
 </body>
 
