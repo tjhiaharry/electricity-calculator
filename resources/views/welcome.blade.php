@@ -17,9 +17,9 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/fontawesome.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/templatemo-finance-business.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/owl.css') }}">
 
 </head>
 
@@ -205,7 +205,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="assets/images/team_01.jpg" alt="">
+                        <img src="{{ asset('assets/images/team_01.jpg') }}" alt="">
                         <div class="down-content">
                             <h4>Lamps</h4>
                             <span>-----</span>
@@ -216,7 +216,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="assets/images/team_02.jpg" alt="">
+                        <img src="{{ asset('assets/images/team_02.jpg') }}" alt="">
                         <div class="down-content">
                             <h4>AirConditioner</h4>
                             <span>------</span>
@@ -227,7 +227,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="assets/images/team_03.jpg" alt="">
+                        <img src="{{ asset('assets/images/team_03.jpg') }}" alt="">
                         <div class="down-content">
                             <h4>Fridge</h4>
                             <span>-------</span>
@@ -500,10 +500,10 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Additional Scripts -->
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/owl.js"></script>
-    <script src="assets/js/slick.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="{{ asset('assets/js/custom.js') }}"></script>
+    <script src="{{ asset('assets/js/owl.js') }}"></script>
+    <script src="{{ asset('assets/js/slick.js') }}"></script>
+    <script src="{{ asset('assets/js/accordions.js') }}"></script>
 
 </body>
 
