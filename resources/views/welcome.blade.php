@@ -14,12 +14,12 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <!-- Bootstrap core CSS -->
-    <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="{{ asset('assets/css/fontawesome.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/templatemo-finance-business.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/owl.css') }}">
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
 
 </head>
 
@@ -422,10 +422,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p>Copyright &copy; 2020 Financial Business Co., Ltd.
+                    <p>Copyright &copy; 2023 ELECTRICITY CALCULATOR.
 
-                        - Design: <a rel="nofollow noopener" href="https://templatemo.com"
-                            target="_blank">TemplateMo</a></p>
+                        - Design: <a rel="nofollow noopener" href="https://github.com/MatthewAlexanderA"
+                            target="_blank">ForrstCode</a></p>
                 </div>
             </div>
         </div>
@@ -496,14 +496,14 @@
     </script>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
-    <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Additional Scripts -->
-    <script src="{{ asset('assets/js/custom.js') }}"></script>
-    <script src="{{ asset('assets/js/owl.js') }}"></script>
-    <script src="{{ asset('assets/js/slick.js') }}"></script>
-    <script src="{{ asset('assets/js/accordions.js') }}"></script>
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/accordions.js"></script>
 
 </body>
 
