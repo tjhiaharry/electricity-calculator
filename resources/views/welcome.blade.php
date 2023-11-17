@@ -1,70 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+@extends('layout')
 
-<head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Matthew Alexander">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
-
-    <title>Electricity Calculator</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="../../assets/css/fontawesome.css">
-    <link rel="stylesheet" href="../../assets/css/templatemo-finance-business.css">
-    <link rel="stylesheet" href="../../assets/css/owl.css">
-
-</head>
-
-<body>
-
-    <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-        <div class="jumper">
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-    </div>
-    <!-- ***** Preloader End ***** -->
-
-    <!-- Header -->
-    <nav class="navbar navbar-expand-lg fixed-top bg-white shadow-sm">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">
-                <h2 style="color: #A4C639">Electricity Calculator</h2>
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="d-flex" role="search">
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a style="color: #747474" class="nav-link" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a style="color: #A4C639" class="nav-link active" href="#">Calculator</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            
-        </div>
-    </nav>
-
+@section('content')
     <!-- Page Content -->
-    <div class="header-text">
-    </div>
-
     <div class="more-info about-info">
         <div class="container">
             <div class="row">
@@ -205,7 +142,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="../../assets/images/team_01.jpg" alt="">
+                        <img src="{{ asset('assets/images/team_01.jpg') }}" alt="">
                         <div class="down-content">
                             <h4>Lamps</h4>
                             <span>-----</span>
@@ -216,7 +153,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="../../assets/images/team_02.jpg" alt="">
+                        <img src="{{ asset('assets/images/team_02.jpg') }}" alt="">
                         <div class="down-content">
                             <h4>AirConditioner</h4>
                             <span>------</span>
@@ -227,7 +164,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="../../assets/images/team_03.jpg" alt="">
+                        <img src="{{ asset('assets/images/team_03.jpg') }}" alt="">
                         <div class="down-content">
                             <h4>Fridge</h4>
                             <span>-------</span>
@@ -345,91 +282,6 @@
         </div>
     </div>
 
-    <!-- Footer Starts Here -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 footer-item">
-                    <h4>Finance Business</h4>
-                    <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien
-                        vitae.</p>
-                    <ul class="social-icons">
-                        <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i
-                                    class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 footer-item">
-                    <h4>Useful Links</h4>
-                    <ul class="menu-list">
-                        <li><a href="#">Vivamus ut tellus mi</a></li>
-                        <li><a href="#">Nulla nec cursus elit</a></li>
-                        <li><a href="#">Vulputate sed nec</a></li>
-                        <li><a href="#">Cursus augue hasellus</a></li>
-                        <li><a href="#">Lacinia ac sapien</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 footer-item">
-                    <h4>Additional Pages</h4>
-                    <ul class="menu-list">
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">How We Work</a></li>
-                        <li><a href="#">Quick Support</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 footer-item last-item">
-                    <h4>Contact Us</h4>
-                    <div class="contact-form">
-                        <form id="contact footer-contact" action="" method="post">
-                            <div class="row">
-                                <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <fieldset>
-                                        <input name="name" type="text" class="form-control" id="name"
-                                            placeholder="Full Name" required="">
-                                    </fieldset>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <fieldset>
-                                        <input name="email" type="text" class="form-control" id="email"
-                                            pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
-                                    </fieldset>
-                                </div>
-                                <div class="col-lg-12">
-                                    <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
-                                    </fieldset>
-                                </div>
-                                <div class="col-lg-12">
-                                    <fieldset>
-                                        <button type="submit" id="form-submit" class="filled-button">Send
-                                            Message</button>
-                                    </fieldset>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <div class="sub-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p>Copyright &copy; 2023 ELECTRICITY CALCULATOR.
-
-                        - Design: <a rel="nofollow noopener" href="https://github.com/MatthewAlexanderA"
-                            target="_blank">ForrstCode</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
 
     {{-- Timer --}}
     <script>
@@ -491,20 +343,4 @@
 
     </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
-    </script>
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Additional Scripts -->
-    <script src="../../assets/js/custom.js"></script>
-    <script src="../../assets/js/owl.js"></script>
-    <script src="../../assets/js/slick.js"></script>
-    <script src="../../assets/js/accordions.js"></script>
-
-</body>
-
-</html>
+@endsection
