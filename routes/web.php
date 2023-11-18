@@ -16,6 +16,10 @@ use App\Http\Controllers\CalculateController;
 */
 
 Route::get('/', function () {
+    return view('home');
+});
+
+Route::get('/calculator', function () {
     return view('welcome');
 });
 
