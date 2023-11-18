@@ -10,7 +10,6 @@
                     <div id="contentout">
                         <div id="content">
                             <h1>Electricity Calculator</h1>
-                            
                             <p>Use the calculator below to estimate electricity usage and cost based on the power
                                 requirements and usage of appliances...</p>
                             <div class="row">
@@ -133,7 +132,7 @@
 
 
     <div class="team">
-        <div class="container">
+        <div class="container mb-5">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
@@ -143,7 +142,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="https://i.imgur.com/YqJoMOe.jpg" alt="">
+                        <img src="https://i.imgur.com/kcauGS6.jpg" alt="">
                         <div class="down-content">
                             <h4>Lamps</h4>
                             <span>-----</span>
@@ -154,7 +153,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="{{ public_path().'assets/images/team_02.jpg' }}" alt="">
+                        <img src="https://i.imgur.com/YqJoMOe.jpg" alt="">
                         <div class="down-content">
                             <h4>AirConditioner</h4>
                             <span>------</span>
@@ -165,7 +164,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="team-item">
-                        <img src="{{ public_path().'assets/images/team_03.jpg' }}" alt="">
+                        <img src="https://i.imgur.com/HJr4cff.jpg" alt="">
                         <div class="down-content">
                             <h4>Fridge</h4>
                             <span>-------</span>
@@ -178,7 +177,7 @@
         </div>
     </div>
 
-    <div class="fun-facts">
+    {{-- <div class="fun-facts">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -281,7 +280,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
 
     {{-- Timer --}}
