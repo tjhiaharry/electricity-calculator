@@ -1861,10 +1861,10 @@ footer .contact-form button.filled-button:hover {
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a style="color: #747474" class="nav-link" aria-current="page" href="#">Home</a>
+                            <a style="color: #747474" class="nav-link" aria-current="page" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a style="color: #A4C639" class="nav-link active" href="#">Calculator</a>
+                            <a style="color: #A4C639" class="nav-link active" href="/calculator">Calculator</a>
                         </li>
                     </ul>
                 </div>
