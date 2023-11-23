@@ -13,7 +13,7 @@
                             <p>Use the calculator below to estimate electricity usage and cost based on the power
                                 requirements and usage of appliances...</p>
                             <div class="row">
-                                <div class="col-8">
+                                <div class="col-7">
                                     <table cellpadding="0" cellspacing="0">
                                         <tr>
                                             <td>
@@ -83,49 +83,72 @@
 
                                 <div class="col-4">
                                     @if(!empty($error))
-                            <div class="alert alert-danger mt-5" role="alert">
-                                Silahkan Pilih Typical Appliance Dahulu!
-                            </div>
-                        @endif
-                        @if(!empty($timeSpan) && !empty($eUsage) && !empty($cost))
-                            <div class="mt-5">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <table class="table table-bordered">
-                                            <thead class="table-primary">
-                                                <tr>
-                                                    <th scope="col">Electricity usage</th>
-                                                    <th scope="col">Cost</th>
-                                                    <th scope="col">Time Span</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        {{ $eUsage }}
-                                                        kWh</td>
-                                                    <td>Rp
-                                                        {{ number_format($cost, 0, ',', '.') }}
-                                                    </td>
-                                                    <td>{{ $timeSpan }} Second</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                        <div class="alert alert-danger mt-5" role="alert">
+                                            Silahkan Pilih Typical Appliance Dahulu!
+                                        </div>
+                                    @endif
+                                    @if(!empty($calculations))
+                                    <div class="mt-5">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <table class="table table-bordered">
+                                                    <thead class="table-primary">
+                                                        <tr>
+                                                            <th scope="col">Electricity usage</th>
+                                                            <th scope="col">Cost</th>
+                                                            <th scope="col">Time Span</th>
+                                                            <th scope="col">Action</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        @php
+                                                            $tUsage = 0;
+                                                            $tCost = 0;
+                                                        @endphp
+                                                        @foreach($calculations as $calculationId => $calculation)
+                                                        <tr>
+                                                            <td>
+                                                                {{ $calculation['eUsage'] }}
+                                                                kWh</td>
+                                                            <td>Rp
+                                                                {{ number_format($calculation['cost'], 0, ',', '.') }}
+                                                            </td>
+                                                            <td>{{ $calculation['timeSpan'] }} Second</td>
+                                                            <td>
+                                                                <form action="{{ route('deleteCalculation', ['id' => $calculationId]) }}" method="post">
+                                                                    @csrf
+                                                                    @method('delete')
+                                                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                                                </form>
+                                                            </td>
+                                                        </tr>
+                                                        @php
+                                                            $tUsage += $calculation['eUsage'];
+                                                            $tCost += $calculation['cost'];
+                                                        @endphp
+                                                        @endforeach
+                                                        <tr>
+                                                            <td><b>{{ $tUsage }} kWh</b></td>
+                                                            <td><b>Rp{{ number_format($tCost, 0, ',', '.') }}</b></td>
+                                                            <td colspan="2" class="text-center"><b>TOTAL</b></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            @if($eUsage > 8000)
-                                <div class="alert alert-danger" role="alert">
-                                    Penggunaan peralatan listrik anda berlebihan!
-                                </div>
-                            @endif
-                        @endif
+                                    @if($tUsage > 8000)
+                                        <div class="alert alert-danger" role="alert">
+                                            Penggunaan peralatan listrik anda berlebihan!
+                                        </div>
+                                    @endif
+                                    @endif
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
             </table>
         </div>
     </div>
