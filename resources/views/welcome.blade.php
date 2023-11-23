@@ -179,8 +179,8 @@
                         <div class="down-content">
                             <h4>AirConditioner</h4>
                             <span>------</span>
-                            <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna,
-                                semper quis.</p>
+                            <p>
+Optimize your air conditioner's efficiency by regularly cleaning or replacing filters, sealing any leaks, and using programmable thermostats to manage usage.</p>
                         </div>
                     </div>
                 </div>
