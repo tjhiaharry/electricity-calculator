@@ -39,7 +39,7 @@
                 "thumbnailUrl": "https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg",
                 "datePublished": "2022-10-04T12:42:25+00:00",
                 "dateModified": "2023-10-18T16:05:06+00:00",
-                "description": "Introducing Ecoweb – your ultimate electricity calculator designed to empower you with precise insights into your energy consumption!",
+                "description": "Introducing Ecoweb, your ultimate electricity calculator designed to empower you with precise insights into your energy consumption!",
                 "breadcrumb": {
                     "@id": "https://www.weforest.org/#breadcrumb"
                 },
