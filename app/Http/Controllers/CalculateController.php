@@ -3,9 +3,17 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Session;
 
 class CalculateController extends Controller
 {
+    public function index()
+    {
+        $calculations = Session::get('electricity_calculations', []);
+
+        return view('welcome', ['calculations' => $calculations]);
+    }
+
     public function calculate(Request $request)
     {
         $device = [
@@ -41,7 +49,34 @@ class CalculateController extends Controller
         $eUsage = ($device[$request->device] * ( $timeSpan / 3600 )) /100;
         $cost = $eUsage * $usage;
 
+        $calculationId = uniqid();
+
+        $calculations = Session::get('electricity_calculations', []);
+        $calculations[$calculationId] = [
+            'eUsage' => $eUsage,
+            'cost' => $cost,
+            'timeSpan' => $timeSpan,
+        ];
+        Session::put('electricity_calculations', $calculations);
+
+        $calculations = Session::get('electricity_calculations', []);
+
         // return [$timeSpan, $eUsage, $cost];
-        return view('welcome', compact('timeSpan', 'eUsage', 'cost'));
+        return view('welcome', ['calculations' => $calculations], compact('timeSpan', 'eUsage', 'cost'));
+    }
+
+    public function deleteCalculation($id)
+    {
+        $calculations = Session::get('electricity_calculations', []);
+
+        if (isset($calculations[$id])) {
+            unset($calculations[$id]);
+
+            Session::put('electricity_calculations', $calculations);
+
+            return redirect()->route('index');
+        }
+
+        return redirect()->route('index');
     }
 }
