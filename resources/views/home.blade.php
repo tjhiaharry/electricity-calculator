@@ -23,7 +23,7 @@
                 "@type": "WebPage",
                 "@id": "https://www.weforest.org/",
                 "url": "https://www.weforest.org/",
-                "name": "WeForest: Sustainable Reforestation Solutions",
+                "name": "EcoWeb: The solution for your electricity problem",
                 "isPartOf": {
                     "@id": "https://www.weforest.org/#website"
                 },
@@ -39,7 +39,7 @@
                 "thumbnailUrl": "https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg",
                 "datePublished": "2022-10-04T12:42:25+00:00",
                 "dateModified": "2023-10-18T16:05:06+00:00",
-                "description": "WeForest is not just a tree planting organization. Our reforestation projects work with governments, local organizations and communities to restore threatened",
+                "description": "Introducing Ecoweb – your ultimate electricity calculator designed to empower you with precise insights into your energy consumption!",
                 "breadcrumb": {
                     "@id": "https://www.weforest.org/#breadcrumb"
                 },
