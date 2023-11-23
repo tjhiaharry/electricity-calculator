@@ -205,10 +205,9 @@
                     <div class="left-content">
                         <span>ECOWEB</span>
                         <h2>Our solutions for your <em>Electricity problem</em></h2>
-                        <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum.
-                            Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue.
-                            <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit
-                            molestie nunc, ut posuere ante tortor ut neque.</p>
+                        <p>encompass innovative tools and expert guidance tailored to optimize consumption, reduce costs, and promote sustainable energy practices.
+                            <br><br>Addressing your electricity concerns comprehensively, we provide cutting-edge technology and 
+                            personalized strategies to empower efficient energy usage, ensuring a brighter, more sustainable future for all.</p>
                         <a href="" class="filled-button">Read More</a>
                     </div>
                 </div>
