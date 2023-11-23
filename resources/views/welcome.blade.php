@@ -169,8 +169,7 @@
                         <div class="down-content">
                             <h4>Lamps</h4>
                             <span>-----</span>
-                            <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna,
-                                semper quis.</p>
+                            <p>Enhance lamp longevity and energy efficiency by opting for LED bulbs, turning off lights when not in use, and utilizing natural light whenever possible.</p>
                         </div>
                     </div>
                 </div>
