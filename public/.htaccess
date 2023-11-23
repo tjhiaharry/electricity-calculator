@@ -20,6 +20,8 @@
     RewriteRule ^ index.php [L]
 
     RewriteEngine On
-    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTPS} !=on    
+    RewriteCond %{REQUEST_URI} !^public
     RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    RewriteRule ^(.*)$ public/$1 [L]
 </IfModule>
