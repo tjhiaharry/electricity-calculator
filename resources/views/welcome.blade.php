@@ -137,7 +137,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    @if($tUsage > 8000)
+                                    @if($tUsage > 6000)
                                         <div class="alert alert-danger" role="alert">
                                             Penggunaan peralatan listrik anda berlebihan!
                                         </div>
