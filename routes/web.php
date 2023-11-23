@@ -23,4 +23,7 @@ Route::get('/calculator', function () {
     return view('welcome');
 });
 
+Route::get('/index', [CalculateController::class, 'index'])->name('index');
 Route::post('/calculate', [CalculateController::class, 'calculate'])->name('calculate');
+
+Route::delete('/delete-calculation/{id}', [CalculateController::class, 'deleteCalculation'])->name('deleteCalculation');
