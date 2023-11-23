@@ -190,8 +190,7 @@
                         <div class="down-content">
                             <h4>Fridge</h4>
                             <span>-------</span>
-                            <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna,
-                                semper quis.</p>
+                            <p>Keep your fridge efficient by maintaining proper temperature settings, minimizing door openings, and ensuring adequate ventilation around the appliance.</p>
                         </div>
                     </div>
                 </div>
