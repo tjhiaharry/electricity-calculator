@@ -21,44 +21,44 @@
             "@context": "https://schema.org",
             "@graph": [{
                 "@type": "WebPage",
-                "@id": "https://www.EcoWeb.org/",
-                "url": "https://www.EcoWeb.org/",
-                "name": "EcoWeb: The solution for your electricity problem",
+                "@id": "https://www.weforest.org/",
+                "url": "https://www.weforest.org/",
+                "name": "WeForest: Sustainable Reforestation Solutions",
                 "isPartOf": {
-                    "@id": "https://www.EcoWeb.org/#website"
+                    "@id": "https://www.weforest.org/#website"
                 },
                 "about": {
-                    "@id": "https://www.EcoWeb.org/#organization"
+                    "@id": "https://www.weforest.org/#organization"
                 },
                 "primaryImageOfPage": {
-                    "@id": "https://www.EcoWeb.org/#primaryimage"
+                    "@id": "https://www.weforest.org/#primaryimage"
                 },
                 "image": {
-                    "@id": "https://www.EcoWeb.org/#primaryimage"
+                    "@id": "https://www.weforest.org/#primaryimage"
                 },
-                "thumbnailUrl": "https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working.jpg",
+                "thumbnailUrl": "https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg",
                 "datePublished": "2022-10-04T12:42:25+00:00",
                 "dateModified": "2023-10-18T16:05:06+00:00",
-                "description": "Introducing Ecoweb, your ultimate electricity calculator designed to empower you with precise insights into your energy consumption!",
+                "description": "WeForest is not just a tree planting organization. Our reforestation projects work with governments, local organizations and communities to restore threatened",
                 "breadcrumb": {
-                    "@id": "https://www.EcoWeb.org/#breadcrumb"
+                    "@id": "https://www.weforest.org/#breadcrumb"
                 },
                 "inLanguage": "en-US",
                 "potentialAction": [{
                     "@type": "ReadAction",
-                    "target": ["https://www.EcoWeb.org/"]
+                    "target": ["https://www.weforest.org/"]
                 }]
             }, {
                 "@type": "ImageObject",
                 "inLanguage": "en-US",
-                "@id": "https://www.EcoWeb.org/#primaryimage",
-                "url": "https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working.jpg",
-                "contentUrl": "https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working.jpg",
+                "@id": "https://www.weforest.org/#primaryimage",
+                "url": "https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg",
+                "contentUrl": "https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg",
                 "width": 1100,
                 "height": 824
             }, {
                 "@type": "BreadcrumbList",
-                "@id": "https://www.EcoWeb.org/#breadcrumb",
+                "@id": "https://www.weforest.org/#breadcrumb",
                 "itemListElement": [{
                     "@type": "ListItem",
                     "position": 1,
@@ -66,42 +66,42 @@
                 }]
             }, {
                 "@type": "WebSite",
-                "@id": "https://www.EcoWeb.org/#website",
-                "url": "https://www.EcoWeb.org/",
-                "name": "EcoWeb",
+                "@id": "https://www.weforest.org/#website",
+                "url": "https://www.weforest.org/",
+                "name": "WeForest",
                 "description": "Making Earth Cooler",
                 "publisher": {
-                    "@id": "https://www.EcoWeb.org/#organization"
+                    "@id": "https://www.weforest.org/#organization"
                 },
                 "potentialAction": [{
                     "@type": "SearchAction",
                     "target": {
                         "@type": "EntryPoint",
-                        "urlTemplate": "https://www.EcoWeb.org/?s={search_term_string}"
+                        "urlTemplate": "https://www.weforest.org/?s={search_term_string}"
                     },
                     "query-input": "required name=search_term_string"
                 }],
                 "inLanguage": "en-US"
             }, {
                 "@type": "Organization",
-                "@id": "https://www.EcoWeb.org/#organization",
-                "name": "EcoWeb",
-                "url": "https://www.EcoWeb.org/",
+                "@id": "https://www.weforest.org/#organization",
+                "name": "WeForest",
+                "url": "https://www.weforest.org/",
                 "logo": {
                     "@type": "ImageObject",
                     "inLanguage": "en-US",
-                    "@id": "https://www.EcoWeb.org/#/schema/logo/image/",
-                    "url": "https://www.EcoWeb.org/wp-content/uploads/2020/12/WF_Logo-color.png",
-                    "contentUrl": "https://www.EcoWeb.org/wp-content/uploads/2020/12/WF_Logo-color.png",
+                    "@id": "https://www.weforest.org/#/schema/logo/image/",
+                    "url": "https://www.weforest.org/wp-content/uploads/2020/12/WF_Logo-color.png",
+                    "contentUrl": "https://www.weforest.org/wp-content/uploads/2020/12/WF_Logo-color.png",
                     "width": 330,
                     "height": 192,
-                    "caption": "EcoWeb"
+                    "caption": "WeForest"
                 },
                 "image": {
-                    "@id": "https://www.EcoWeb.org/#/schema/logo/image/"
+                    "@id": "https://www.weforest.org/#/schema/logo/image/"
                 },
-                "sameAs": ["https://www.facebook.com/EcoWeb", "https://twitter.com/EcoWeb_org",
-                    "https://www.instagram.com/EcoWeb_org/", "https://www.linkedin.com/company/EcoWeb/"
+                "sameAs": ["https://www.facebook.com/WeForest", "https://twitter.com/weforest_org",
+                    "https://www.instagram.com/weforest_org/", "https://www.linkedin.com/company/weforest/"
                 ]
             }]
         }
@@ -114,9 +114,9 @@
     <link rel='dns-prefetch' href='//www.googletagmanager.com' />
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel="alternate" type="application/rss+xml" title="EcoWeb &raquo; Feed"
-        href="https://www.EcoWeb.org/feed/" />
+        href="https://www.weforest.org/feed/" />
     <link rel="alternate" type="application/rss+xml" title="EcoWeb &raquo; Comments Feed"
-        href="https://www.EcoWeb.org/comments/feed/" />
+        href="https://www.weforest.org/comments/feed/" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
@@ -124,7 +124,7 @@
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
             "svgExt": ".svg",
             "source": {
-                "concatemoji": "https:\/\/www.EcoWeb.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"
+                "concatemoji": "https:\/\/www.weforest.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"
             }
         };
         /*! This file is auto-generated */
@@ -253,19 +253,19 @@
 
     </style>
     <link rel='stylesheet' id='elementor-frontend-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.17.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.17.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='eael-general-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.16'
+        href='https://www.weforest.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.16'
         type='text/css' media='all' />
     <link rel='stylesheet' id='eael-6401-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/essential-addons-elementor/eael-6401.css?ver=1697645106'
+        href='https://www.weforest.org/wp-content/uploads/essential-addons-elementor/eael-6401.css?ver=1697645106'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jupiterx-child-css'
-        href='https://www.EcoWeb.org/wp-content/themes/jupiterx-child/assets/css/style.css?ver=6.3.2' type='text/css'
+        href='https://www.weforest.org/wp-content/themes/jupiterx-child/assets/css/style.css?ver=6.3.2' type='text/css'
         media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href='https://www.EcoWeb.org/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css'
+        href='https://www.weforest.org/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css'
         media='all' />
     <style id='wp-block-library-theme-inline-css' type='text/css'>
         .wp-block-audio figcaption {
@@ -457,7 +457,7 @@
 
     </style>
     <link rel='stylesheet' id='jet-engine-frontend-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.2.6' type='text/css'
+        href='https://www.weforest.org/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.2.6' type='text/css'
         media='all' />
     <style id='classic-theme-styles-inline-css' type='text/css'>
         /*! This file is auto-generated */
@@ -846,60 +846,60 @@
 
     </style>
     <link rel='stylesheet' id='contact-form-7-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.3'
+        href='https://www.weforest.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='cookie-law-info-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.1.7'
+        href='https://www.weforest.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.1.7'
         type='text/css' media='all' />
     <link rel='stylesheet' id='cookie-law-info-gdpr-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.1.7'
+        href='https://www.weforest.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.1.7'
         type='text/css' media='all' />
     <link rel='stylesheet' id='ivory-search-styles-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.4'
+        href='https://www.weforest.org/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.4'
         type='text/css' media='all' />
     <link rel='stylesheet' id='htbbootstrap-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css?ver=2.3.6'
+        href='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css?ver=2.3.6'
         type='text/css' media='all' />
     <link rel='stylesheet' id='htmega-animation-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/css/animation.css?ver=2.3.6'
+        href='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/css/animation.css?ver=2.3.6'
         type='text/css' media='all' />
     <link rel='stylesheet' id='htmega-keyframes-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-keyframes.css?ver=2.3.6'
+        href='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-keyframes.css?ver=2.3.6'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jupiterx-popups-animation-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/animate/animate.min.css?ver=3.4.6'
+        href='https://www.weforest.org/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/animate/animate.min.css?ver=3.4.6'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jupiterx-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/jupiterx/compiler/jupiterx/style.css?ver=d3ef6e3'
+        href='https://www.weforest.org/wp-content/uploads/jupiterx/compiler/jupiterx/style.css?ver=d3ef6e3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-all-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/css/all.min.css?ver=5.12.0'
+        href='https://www.weforest.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/css/all.min.css?ver=5.12.0'
         type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-v4-shims-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/css/v4-shims.min.css?ver=5.12.0'
+        href='https://www.weforest.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/css/v4-shims.min.css?ver=5.12.0'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jet-menu-public-styles-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.4.2'
+        href='https://www.weforest.org/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.4.2'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jet-popup-frontend-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=2.0.2.1'
+        href='https://www.weforest.org/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=2.0.2.1'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-lazyload-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/css/modules/lazyload/frontend.min.css?ver=3.17.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/css/modules/lazyload/frontend.min.css?ver=3.17.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jupiterx-elements-dynamic-styles-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/jupiterx/compiler/jupiterx-elements-dynamic-styles/style.css?ver=4073ff0'
+        href='https://www.weforest.org/wp-content/uploads/jupiterx/compiler/jupiterx-elements-dynamic-styles/style.css?ver=4073ff0'
         type='text/css' media='all' />
     <link rel='stylesheet' id='eael-6144-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/essential-addons-elementor/eael-6144.css?ver=1697645106'
+        href='https://www.weforest.org/wp-content/uploads/essential-addons-elementor/eael-6144.css?ver=1697645106'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0'
         type='text/css' media='all' />
     <style id='elementor-icons-inline-css' type='text/css'>
         .elementor-add-new-section .elementor-add-templately-promo-button {
             background-color: #5d4fff;
-            background-image: url(https://www.EcoWeb.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-image: url(https://www.weforest.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
             background-repeat: no-repeat;
             background-position: center center;
             position: relative;
@@ -915,7 +915,7 @@
 
         .elementor-add-new-section .elementor-add-templately-promo-button {
             background-color: #5d4fff;
-            background-image: url(https://www.EcoWeb.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-image: url(https://www.weforest.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
             background-repeat: no-repeat;
             background-position: center center;
             position: relative;
@@ -931,7 +931,7 @@
 
         .elementor-add-new-section .elementor-add-templately-promo-button {
             background-color: #5d4fff;
-            background-image: url(https://www.EcoWeb.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-image: url(https://www.weforest.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
             background-repeat: no-repeat;
             background-position: center center;
             position: relative;
@@ -947,7 +947,7 @@
 
         .elementor-add-new-section .elementor-add-templately-promo-button {
             background-color: #5d4fff;
-            background-image: url(https://www.EcoWeb.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-image: url(https://www.weforest.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
             background-repeat: no-repeat;
             background-position: center center;
             position: relative;
@@ -963,37 +963,37 @@
 
     </style>
     <link rel='stylesheet' id='swiper-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6'
         type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jupiterx-core-raven-frontend-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/css/frontend.min.css?ver=6.3.2'
+        href='https://www.weforest.org/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/css/frontend.min.css?ver=6.3.2'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-7-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/elementor/css/post-7.css?ver=1699626299' type='text/css'
+        href='https://www.weforest.org/wp-content/uploads/elementor/css/post-7.css?ver=1699626299' type='text/css'
         media='all' />
     <link rel='stylesheet' id='powerpack-frontend-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/powerpack-lite-for-elementor/assets/css/min/frontend.min.css?ver=2.7.11'
+        href='https://www.weforest.org/wp-content/plugins/powerpack-lite-for-elementor/assets/css/min/frontend.min.css?ver=2.7.11'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.17.1'
+        href='https://www.weforest.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.17.1'
         type='text/css' media='all' />
     <link rel='stylesheet' id='jet-tabs-frontend-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.1.25.3'
+        href='https://www.weforest.org/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.1.25.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='flatpickr-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-6144-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/elementor/css/post-6144.css?ver=1699626502' type='text/css'
+        href='https://www.weforest.org/wp-content/uploads/elementor/css/post-6144.css?ver=1699626502' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-6401-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/elementor/css/post-6401.css?ver=1699626299' type='text/css'
+        href='https://www.weforest.org/wp-content/uploads/elementor/css/post-6401.css?ver=1699626299' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-191-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/elementor/css/post-191.css?ver=1699626299' type='text/css'
+        href='https://www.weforest.org/wp-content/uploads/elementor/css/post-191.css?ver=1699626299' type='text/css'
         media='all' />
     <link rel='stylesheet' id='bfa-font-awesome-css'
         href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.3' type='text/css' media='all' />
@@ -1102,44 +1102,44 @@
 
     </style>
     <link rel='stylesheet' id='ecs-styles-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.7'
+        href='https://www.weforest.org/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.7'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-1715-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/elementor/css/post-1715.css?ver=1615574204' type='text/css'
+        href='https://www.weforest.org/wp-content/uploads/elementor/css/post-1715.css?ver=1615574204' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-3679-css'
-        href='https://www.EcoWeb.org/wp-content/uploads/elementor/css/post-3679.css?ver=1695309661' type='text/css'
+        href='https://www.weforest.org/wp-content/uploads/elementor/css/post-3679.css?ver=1695309661' type='text/css'
         media='all' />
     <link rel='stylesheet' id='sti-style-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/share-this-image/assets/css/sti.min.css?ver=1.87'
+        href='https://www.weforest.org/wp-content/plugins/share-this-image/assets/css/sti.min.css?ver=1.87'
         type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.3.2'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-regular-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <script type='text/javascript' id='jquery-core-js-extra'>
         /* <![CDATA[ */
         var pp = {
-            "ajax_url": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php"
+            "ajax_url": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php"
         };
         /* ]]> */
 
     </script>
-    <script type='text/javascript' src='https://www.EcoWeb.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.0'
+    <script type='text/javascript' src='https://www.weforest.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.0'
         id='jquery-core-js'></script>
-    <script type='text/javascript' src='https://www.EcoWeb.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1'
+    <script type='text/javascript' src='https://www.weforest.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1'
         id='jquery-migrate-js'></script>
     <script type='text/javascript' id='cookie-law-info-js-extra'>
         /* <![CDATA[ */
@@ -1215,16 +1215,16 @@
             "widget_position": "left"
         };
         var log_object = {
-            "ajax_url": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php"
+            "ajax_url": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php"
         };
         /* ]]> */
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.1.7'
+        src='https://www.weforest.org/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.1.7'
         id='cookie-law-info-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/themes/jupiterx/lib/admin/assets/lib/webfont/webfont.min.js?ver=1.6.26'
+        src='https://www.weforest.org/wp-content/themes/jupiterx/lib/admin/assets/lib/webfont/webfont.min.js?ver=1.6.26'
         id='jupiterx-webfont-js'></script>
     <script id="jupiterx-webfont-js-after" type="text/javascript">
         WebFont.load({
@@ -1237,10 +1237,10 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/themes/jupiterx/lib/assets/dist/js/utils.min.js?ver=3.4.6'
+        src='https://www.weforest.org/wp-content/themes/jupiterx/lib/assets/dist/js/utils.min.js?ver=3.4.6'
         id='jupiterx-utils-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.17.3'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.17.3'
         id='font-awesome-4-shim-js'></script>
 
     <!-- Google Analytics snippet added by Site Kit -->
@@ -1253,7 +1253,7 @@
             dataLayer.push(arguments);
         }
         gtag('set', 'linker', {
-            "domains": ["www.EcoWeb.org"]
+            "domains": ["www.weforest.org"]
         });
         gtag("js", new Date());
         gtag("set", "developer_id.dZTNiMT", true);
@@ -1265,26 +1265,26 @@
     <script type='text/javascript' id='ecs_ajax_load-js-extra'>
         /* <![CDATA[ */
         var ecs_ajax_params = {
-            "ajaxurl": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
             "posts": "{\"error\":\"\",\"m\":\"\",\"p\":6144,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":6144,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"tax_query\":[{\"taxonomy\":\"language\",\"field\":\"term_taxonomy_id\",\"terms\":[175],\"operator\":\"IN\"}],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"
         };
         /* ]]> */
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.7'
+        src='https://www.weforest.org/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.7'
         id='ecs_ajax_load-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.7' id='ecs-script-js'>
+        src='https://www.weforest.org/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.7' id='ecs-script-js'>
     </script>
-    <link rel="https://api.w.org/" href="https://www.EcoWeb.org/wp-json/" />
-    <link rel="alternate" type="application/json" href="https://www.EcoWeb.org/wp-json/wp/v2/pages/6144" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.EcoWeb.org/xmlrpc.php?rsd" />
-    <link rel='shortlink' href='https://www.EcoWeb.org/' />
+    <link rel="https://api.w.org/" href="https://www.weforest.org/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://www.weforest.org/wp-json/wp/v2/pages/6144" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.weforest.org/xmlrpc.php?rsd" />
+    <link rel='shortlink' href='https://www.weforest.org/' />
     <link rel="alternate" type="application/json+oembed"
-        href="https://www.EcoWeb.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.EcoWeb.org%2F" />
+        href="https://www.weforest.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.weforest.org%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="https://www.EcoWeb.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.EcoWeb.org%2F&#038;format=xml" />
+        href="https://www.weforest.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.weforest.org%2F&#038;format=xml" />
     <meta name="generator" content="Site Kit by Google 1.113.0" />
     <!-- Google Tag Manager for WordPress by gtm4wp.com -->
     <!-- GTM Container placement set to automatic -->
@@ -1343,12 +1343,12 @@
         }
 
     </style>
-    <link rel="icon" href="https://www.EcoWeb.org/wp-content/uploads/2021/01/cropped-512-32x32.jpg" sizes="32x32" />
-    <link rel="icon" href="https://www.EcoWeb.org/wp-content/uploads/2021/01/cropped-512-192x192.jpg"
+    <link rel="icon" href="https://www.weforest.org/wp-content/uploads/2021/01/cropped-512-32x32.jpg" sizes="32x32" />
+    <link rel="icon" href="https://www.weforest.org/wp-content/uploads/2021/01/cropped-512-192x192.jpg"
         sizes="192x192" />
-    <link rel="apple-touch-icon" href="https://www.EcoWeb.org/wp-content/uploads/2021/01/cropped-512-180x180.jpg" />
+    <link rel="apple-touch-icon" href="https://www.weforest.org/wp-content/uploads/2021/01/cropped-512-180x180.jpg" />
     <meta name="msapplication-TileImage"
-        content="https://www.EcoWeb.org/wp-content/uploads/2021/01/cropped-512-270x270.jpg" />
+        content="https://www.weforest.org/wp-content/uploads/2021/01/cropped-512-270x270.jpg" />
     <style type="text/css" id="wp-custom-css">
         /* The following css is applied to overwrite unwanted colors in the menu that orrcured after an update of the jupiter X theme on 2022-11-13 */
 
@@ -1964,7 +1964,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-button-wrapper">
                                                             <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow"
-                                                                href="https://www.EcoWeb.org/what-we-do"
+                                                                href="https://www.weforest.org/what-we-do"
                                                                 target="_blank">
                                                                 <span class="elementor-button-content-wrapper">
                                                                     <span class="elementor-button-text">What We
@@ -1985,7 +1985,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-button-wrapper">
                                                             <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow"
-                                                                href="https://www.EcoWeb.org/get-involved/"
+                                                                href="https://www.weforest.org/get-involved/"
                                                                 target="_blank">
                                                                 <span class="elementor-button-content-wrapper">
                                                                     <span class="elementor-button-text">Get
@@ -2025,20 +2025,20 @@
                                                                             class="pp-content-ticker-item swiper-slide elementor-repeater-item-dc89050">
                                                                             <div class="pp-content-ticker-content">
                                                                                 <div class="pp-content-ticker-image">
-                                                                                    <a href="https://www.EcoWeb.org/blog/our-favourite-trees-rhizophora-species/"
+                                                                                    <a href="https://www.weforest.org/blog/our-favourite-trees-rhizophora-species/"
                                                                                         target="_blank">
                                                                                         <img decoding="async"
                                                                                             fetchpriority="high"
                                                                                             width="1000" height="667"
-                                                                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen.jpg"
+                                                                                            src="https://www.weforest.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen.jpg"
                                                                                             class="attachment-large size-large wp-image-9767"
                                                                                             alt=""
-                                                                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen.jpg 1000w, https://www.EcoWeb.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen-300x200.jpg 300w, https://www.EcoWeb.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen-768x512.jpg 768w, https://www.EcoWeb.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen-450x300.jpg 450w"
+                                                                                            srcset="https://www.weforest.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen.jpg 1000w, https://www.weforest.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen-300x200.jpg 300w, https://www.weforest.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen-768x512.jpg 768w, https://www.weforest.org/wp-content/uploads/2023/09/SEN_SIN_Tree_Mangrove-tree_Rhizophora_2020_©NVanIngen-450x300.jpg 450w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" />
                                                                                     </a>
                                                                                 </div>
                                                                                 <p class="pp-content-ticker-item-title">
-                                                                                    <a href="https://www.EcoWeb.org/blog/our-favourite-trees-rhizophora-species/"
+                                                                                    <a href="https://www.weforest.org/blog/our-favourite-trees-rhizophora-species/"
                                                                                         target="_blank">Our favourite
                                                                                         trees</a> </p>
                                                                             </div>
@@ -2047,20 +2047,20 @@
                                                                             class="pp-content-ticker-item swiper-slide elementor-repeater-item-b568ef3">
                                                                             <div class="pp-content-ticker-content">
                                                                                 <div class="pp-content-ticker-image">
-                                                                                    <a href="https://www.EcoWeb.org/blog/a-guide-to-esg-reporting/"
+                                                                                    <a href="https://www.weforest.org/blog/a-guide-to-esg-reporting/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">
                                                                                         <img decoding="async"
                                                                                             width="1100" height="824"
-                                                                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working.jpg"
+                                                                                            src="https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg"
                                                                                             class="attachment-full size-full wp-image-9561"
                                                                                             alt=""
-                                                                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working.jpg 1100w, https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working-300x225.jpg 300w, https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working-768x575.jpg 768w, https://www.EcoWeb.org/wp-content/uploads/2023/08/women-working-400x300.jpg 400w"
+                                                                                            srcset="https://www.weforest.org/wp-content/uploads/2023/08/women-working.jpg 1100w, https://www.weforest.org/wp-content/uploads/2023/08/women-working-300x225.jpg 300w, https://www.weforest.org/wp-content/uploads/2023/08/women-working-768x575.jpg 768w, https://www.weforest.org/wp-content/uploads/2023/08/women-working-400x300.jpg 400w"
                                                                                             sizes="(max-width: 1100px) 100vw, 1100px" />
                                                                                     </a>
                                                                                 </div>
                                                                                 <p class="pp-content-ticker-item-title">
-                                                                                    <a href="https://www.EcoWeb.org/blog/a-guide-to-esg-reporting/"
+                                                                                    <a href="https://www.weforest.org/blog/a-guide-to-esg-reporting/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">A guide to
                                                                                         ESG (Environmental, Social and
@@ -2071,20 +2071,20 @@
                                                                             class="pp-content-ticker-item swiper-slide elementor-repeater-item-0396e2f">
                                                                             <div class="pp-content-ticker-content">
                                                                                 <div class="pp-content-ticker-image">
-                                                                                    <a href="https://www.EcoWeb.org/blog/unravelling-the-differences-reforestation-vs-restoration/"
+                                                                                    <a href="https://www.weforest.org/blog/unravelling-the-differences-reforestation-vs-restoration/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">
                                                                                         <img decoding="async"
                                                                                             width="1000" height="750"
-                                                                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/08/reforestvsrest.jpg"
+                                                                                            src="https://www.weforest.org/wp-content/uploads/2023/08/reforestvsrest.jpg"
                                                                                             class="attachment-full size-full wp-image-9625"
                                                                                             alt=""
-                                                                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/08/reforestvsrest.jpg 1000w, https://www.EcoWeb.org/wp-content/uploads/2023/08/reforestvsrest-300x225.jpg 300w, https://www.EcoWeb.org/wp-content/uploads/2023/08/reforestvsrest-768x576.jpg 768w, https://www.EcoWeb.org/wp-content/uploads/2023/08/reforestvsrest-400x300.jpg 400w"
+                                                                                            srcset="https://www.weforest.org/wp-content/uploads/2023/08/reforestvsrest.jpg 1000w, https://www.weforest.org/wp-content/uploads/2023/08/reforestvsrest-300x225.jpg 300w, https://www.weforest.org/wp-content/uploads/2023/08/reforestvsrest-768x576.jpg 768w, https://www.weforest.org/wp-content/uploads/2023/08/reforestvsrest-400x300.jpg 400w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" />
                                                                                     </a>
                                                                                 </div>
                                                                                 <p class="pp-content-ticker-item-title">
-                                                                                    <a href="https://www.EcoWeb.org/blog/unravelling-the-differences-reforestation-vs-restoration/"
+                                                                                    <a href="https://www.weforest.org/blog/unravelling-the-differences-reforestation-vs-restoration/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">Unravelling
                                                                                         the Differences: Reforestation
@@ -2095,17 +2095,17 @@
                                                                             class="pp-content-ticker-item swiper-slide elementor-repeater-item-960f18c">
                                                                             <div class="pp-content-ticker-content">
                                                                                 <div class="pp-content-ticker-image">
-                                                                                    <a href="https://www.EcoWeb.org/annual-report-2022/"
+                                                                                    <a href="https://www.weforest.org/annual-report-2022/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">
                                                                                         <img decoding="async"
                                                                                             width="111" height="61"
-                                                                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/04/thankstoyou-1200x663-1.webp"
+                                                                                            src="https://www.weforest.org/wp-content/uploads/2023/04/thankstoyou-1200x663-1.webp"
                                                                                             class="attachment-full size-full wp-image-8590"
                                                                                             alt="" /> </a>
                                                                                 </div>
                                                                                 <p class="pp-content-ticker-item-title">
-                                                                                    <a href="https://www.EcoWeb.org/annual-report-2022/"
+                                                                                    <a href="https://www.weforest.org/annual-report-2022/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">The EcoWeb
                                                                                         Annual Report 2022 is out now!
@@ -2116,17 +2116,17 @@
                                                                             class="pp-content-ticker-item swiper-slide elementor-repeater-item-de1be00">
                                                                             <div class="pp-content-ticker-content">
                                                                                 <div class="pp-content-ticker-image">
-                                                                                    <a href="https://www.EcoWeb.org/explore/video-gallery/"
+                                                                                    <a href="https://www.weforest.org/explore/video-gallery/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">
                                                                                         <img decoding="async"
                                                                                             width="111" height="61"
-                                                                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/05/bryancover-1200x666-1-thumb.webp"
+                                                                                            src="https://www.weforest.org/wp-content/uploads/2023/05/bryancover-1200x666-1-thumb.webp"
                                                                                             class="attachment-full size-full wp-image-8863"
                                                                                             alt="" /> </a>
                                                                                 </div>
                                                                                 <p class="pp-content-ticker-item-title">
-                                                                                    <a href="https://www.EcoWeb.org/explore/video-gallery/"
+                                                                                    <a href="https://www.weforest.org/explore/video-gallery/"
                                                                                         target="_blank"
                                                                                         aria-label="Title">Watch 'Making
                                                                                         Earth Cooler'</a> </p>
@@ -2275,10 +2275,10 @@
                                     data-id="6ca33d7f" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <img decoding="async" width="671" height="800"
-                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/03/ETH_Desaa_-Gebrekidan-village.jpg"
+                                            src="https://www.weforest.org/wp-content/uploads/2023/03/ETH_Desaa_-Gebrekidan-village.jpg"
                                             class="elementor-animation-grow attachment-full size-full wp-image-7346"
-                                            alt="EcoWeb Reforest organization"
-                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/03/ETH_Desaa_-Gebrekidan-village.jpg 671w, https://www.EcoWeb.org/wp-content/uploads/2023/03/ETH_Desaa_-Gebrekidan-village-252x300.jpg 252w"
+                                            alt="Weforest Reforest organization"
+                                            srcset="https://www.weforest.org/wp-content/uploads/2023/03/ETH_Desaa_-Gebrekidan-village.jpg 671w, https://www.weforest.org/wp-content/uploads/2023/03/ETH_Desaa_-Gebrekidan-village-252x300.jpg 252w"
                                             sizes="(max-width: 671px) 100vw, 671px" /> </div>
                                 </div>
                             </div>
@@ -2290,10 +2290,10 @@
                                     data-id="3186cc9" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <img decoding="async" width="698" height="800"
-                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/03/50931482218_0f6f2ff7d6_kk.jpg"
+                                            src="https://www.weforest.org/wp-content/uploads/2023/03/50931482218_0f6f2ff7d6_kk.jpg"
                                             class="elementor-animation-grow attachment-full size-full wp-image-7351"
-                                            alt="EcoWeb Reforestation Organization"
-                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/03/50931482218_0f6f2ff7d6_kk.jpg 698w, https://www.EcoWeb.org/wp-content/uploads/2023/03/50931482218_0f6f2ff7d6_kk-262x300.jpg 262w"
+                                            alt="Weforest Reforestation Organization"
+                                            srcset="https://www.weforest.org/wp-content/uploads/2023/03/50931482218_0f6f2ff7d6_kk.jpg 698w, https://www.weforest.org/wp-content/uploads/2023/03/50931482218_0f6f2ff7d6_kk-262x300.jpg 262w"
                                             sizes="(max-width: 698px) 100vw, 698px" /> </div>
                                 </div>
                                 <div class="elementor-element elementor-element-643d24c elementor-widget elementor-widget-text-editor"
@@ -2340,10 +2340,10 @@
                                     data-id="1236e8cb" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <img decoding="async" width="636" height="800"
-                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/04/eth-desaa-hawile-planting-min.webp"
+                                            src="https://www.weforest.org/wp-content/uploads/2023/04/eth-desaa-hawile-planting-min.webp"
                                             class="elementor-animation-grow attachment-full size-full wp-image-8572"
-                                            alt="EcoWeb Reforest organization"
-                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/04/eth-desaa-hawile-planting-min.webp 636w, https://www.EcoWeb.org/wp-content/uploads/2023/04/eth-desaa-hawile-planting-min-239x300.webp 239w"
+                                            alt="Weforest Reforest organization"
+                                            srcset="https://www.weforest.org/wp-content/uploads/2023/04/eth-desaa-hawile-planting-min.webp 636w, https://www.weforest.org/wp-content/uploads/2023/04/eth-desaa-hawile-planting-min-239x300.webp 239w"
                                             sizes="(max-width: 636px) 100vw, 636px" /> </div>
                                 </div>
                             </div>
@@ -2371,10 +2371,10 @@
                                     data-id="23834e7e" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <img decoding="async" width="338" height="440"
-                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/03/52354645486_b7744fced6_oo.jpg"
+                                            src="https://www.weforest.org/wp-content/uploads/2023/03/52354645486_b7744fced6_oo.jpg"
                                             class="elementor-animation-grow attachment-large size-large wp-image-7353"
-                                            alt="EcoWeb Reforest organization Plant growing in the soil"
-                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/03/52354645486_b7744fced6_oo.jpg 338w, https://www.EcoWeb.org/wp-content/uploads/2023/03/52354645486_b7744fced6_oo-230x300.jpg 230w"
+                                            alt="Weforest Reforest organization Plant growing in the soil"
+                                            srcset="https://www.weforest.org/wp-content/uploads/2023/03/52354645486_b7744fced6_oo.jpg 338w, https://www.weforest.org/wp-content/uploads/2023/03/52354645486_b7744fced6_oo-230x300.jpg 230w"
                                             sizes="(max-width: 338px) 100vw, 338px" /> </div>
                                 </div>
                             </div>
@@ -2386,10 +2386,10 @@
                                     data-id="1c1fccaf" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <img decoding="async" width="533" height="800"
-                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/04/33912745678-97ccfd9655-k.webp"
+                                            src="https://www.weforest.org/wp-content/uploads/2023/04/33912745678-97ccfd9655-k.webp"
                                             class="elementor-animation-grow attachment-full size-full wp-image-8594"
-                                            alt="EcoWeb Reforest organization - Monkey in the tree"
-                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/04/33912745678-97ccfd9655-k.webp 533w, https://www.EcoWeb.org/wp-content/uploads/2023/04/33912745678-97ccfd9655-k-200x300.webp 200w"
+                                            alt="Weforest Reforest organization - Monkey in the tree"
+                                            srcset="https://www.weforest.org/wp-content/uploads/2023/04/33912745678-97ccfd9655-k.webp 533w, https://www.weforest.org/wp-content/uploads/2023/04/33912745678-97ccfd9655-k-200x300.webp 200w"
                                             sizes="(max-width: 533px) 100vw, 533px" /> </div>
                                 </div>
                                 <div class="elementor-element elementor-element-91ced3f animated-fast elementor-invisible elementor-widget elementor-widget-text-editor"
@@ -2426,10 +2426,10 @@
                                     data-id="7b668289" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <img decoding="async" width="750" height="1000"
-                                            src="https://www.EcoWeb.org/wp-content/uploads/2023/03/ZAM_KAT_NurseryRubenFoquet.jpg"
+                                            src="https://www.weforest.org/wp-content/uploads/2023/03/ZAM_KAT_NurseryRubenFoquet.jpg"
                                             class="elementor-animation-grow attachment-full size-full wp-image-7355"
-                                            alt="EcoWeb Reforest organization - multiples of plants growing"
-                                            srcset="https://www.EcoWeb.org/wp-content/uploads/2023/03/ZAM_KAT_NurseryRubenFoquet.jpg 750w, https://www.EcoWeb.org/wp-content/uploads/2023/03/ZAM_KAT_NurseryRubenFoquet-225x300.jpg 225w"
+                                            alt="Weforest Reforest organization - multiples of plants growing"
+                                            srcset="https://www.weforest.org/wp-content/uploads/2023/03/ZAM_KAT_NurseryRubenFoquet.jpg 750w, https://www.weforest.org/wp-content/uploads/2023/03/ZAM_KAT_NurseryRubenFoquet-225x300.jpg 225w"
                                             sizes="(max-width: 750px) 100vw, 750px" /> </div>
                                 </div>
                             </div>
@@ -2518,7 +2518,7 @@
                                                                             local communities. </div>
 
                                                                         <a class="elementor-flip-box__button elementor-button elementor-size-xs"
-                                                                            href="https://www.EcoWeb.org/why-flr-people"
+                                                                            href="https://www.weforest.org/why-flr-people"
                                                                             target="_blank">
                                                                             Find out more </a>
                                                                     </div>
@@ -2562,7 +2562,7 @@
                                                                             bacteria. </div>
 
                                                                         <a class="elementor-flip-box__button elementor-button elementor-size-xs"
-                                                                            href="https://www.EcoWeb.org/why-flr-nature"
+                                                                            href="https://www.weforest.org/why-flr-nature"
                                                                             target="_blank">
                                                                             Find out more </a>
                                                                     </div>
@@ -2606,7 +2606,7 @@
                                                                             soil. </div>
 
                                                                         <a class="elementor-flip-box__button elementor-button elementor-size-xs"
-                                                                            href="https://www.EcoWeb.org/why-flr-climate/"
+                                                                            href="https://www.weforest.org/why-flr-climate/"
                                                                             target="_blank">
                                                                             Find out more </a>
                                                                     </div>
@@ -3192,7 +3192,7 @@
                                 <div class="wt-cli-ckyes-footer-section">
                                     <div class="wt-cli-ckyes-brand-logo">Powered by <a
                                             href="https://www.cookieyes.com/"><img
-                                                src="https://www.EcoWeb.org/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+                                                src="https://www.weforest.org/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
                                                 alt="CookieYes Logo"></a></div>
                                 </div>
 
@@ -3567,18 +3567,18 @@
 
 
     <link rel='stylesheet' id='htmega-widgets-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets.css?ver=2.3.6'
+        href='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets.css?ver=2.3.6'
         type='text/css' media='all' />
     <link rel='stylesheet' id='cookie-law-info-table-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.1.7'
+        href='https://www.weforest.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.1.7'
         type='text/css' media='all' />
     <link rel='stylesheet' id='e-animations-css'
-        href='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.3'
+        href='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.3'
         type='text/css' media='all' />
     <script type='text/javascript' id='eael-general-js-extra'>
         /* <![CDATA[ */
         var localize = {
-            "ajaxurl": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
             "nonce": "1d821087c0",
             "i18n": {
                 "added": "Added ",
@@ -3592,7 +3592,7 @@
                 "shipping_text": "Shipping",
                 "fg_mfp_counter_text": "of"
             },
-            "page_permalink": "https:\/\/www.EcoWeb.org\/",
+            "page_permalink": "https:\/\/www.weforest.org\/",
             "cart_redirectition": "",
             "cart_page_url": "",
             "el_breakpoints": {
@@ -3644,22 +3644,22 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.16'
+        src='https://www.weforest.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.16'
         id='eael-general-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/uploads/essential-addons-elementor/eael-6401.js?ver=1697645106'
+        src='https://www.weforest.org/wp-content/uploads/essential-addons-elementor/eael-6401.js?ver=1697645106'
         id='eael-6401-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/themes/jupiterx-child/assets/js/script.js?ver=6.3.2'
+        src='https://www.weforest.org/wp-content/themes/jupiterx-child/assets/js/script.js?ver=6.3.2'
         id='jupiterx-child-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.3' id='swv-js'>
+        src='https://www.weforest.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.3' id='swv-js'>
     </script>
     <script type='text/javascript' id='contact-form-7-js-extra'>
         /* <![CDATA[ */
         var wpcf7 = {
             "api": {
-                "root": "https:\/\/www.EcoWeb.org\/wp-json\/",
+                "root": "https:\/\/www.weforest.org\/wp-json\/",
                 "namespace": "contact-form-7\/v1"
             },
             "cached": "1"
@@ -3668,21 +3668,21 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.3'
+        src='https://www.weforest.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.3'
         id='contact-form-7-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min.js?ver=2.3.6'
+        src='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min.js?ver=2.3.6'
         id='htmega-popper-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap.js?ver=2.3.6'
+        src='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap.js?ver=2.3.6'
         id='htbbootstrap-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints.js?ver=2.3.6'
+        src='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints.js?ver=2.3.6'
         id='waypoints-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jupiterx-core/includes/woocommerce/wc-quick-view.js?ver=3.4.6'
+        src='https://www.weforest.org/wp-content/plugins/jupiterx-core/includes/woocommerce/wc-quick-view.js?ver=3.4.6'
         id='jupiterx-wc-quickview-js'></script>
-    <script type='text/javascript' src='https://www.EcoWeb.org/wp-includes/js/underscore.min.js?ver=1.13.4'
+    <script type='text/javascript' src='https://www.weforest.org/wp-includes/js/underscore.min.js?ver=1.13.4'
         id='underscore-js'></script>
     <script type='text/javascript' id='jupiterx-js-extra'>
         /* <![CDATA[ */
@@ -3695,32 +3695,32 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/themes/jupiterx/lib/assets/dist/js/frontend.min.js?ver=3.4.6'
+        src='https://www.weforest.org/wp-content/themes/jupiterx/lib/assets/dist/js/frontend.min.js?ver=3.4.6'
         id='jupiterx-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2'
+        src='https://www.weforest.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2'
         id='wp-polyfill-inert-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11'
+        src='https://www.weforest.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11'
         id='regenerator-runtime-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'>
+        src='https://www.weforest.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'>
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'>
+        src='https://www.weforest.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'>
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-menu/assets/public/lib/vue/vue.min.js?ver=2.6.11'
+        src='https://www.weforest.org/wp-content/plugins/jet-menu/assets/public/lib/vue/vue.min.js?ver=2.6.11'
         id='jet-vue-js'></script>
     <script type='text/javascript' id='jet-menu-public-scripts-js-extra'>
         /* <![CDATA[ */
         var jetMenuPublicSettings = {
             "version": "2.4.2",
-            "ajaxUrl": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
+            "ajaxUrl": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
             "isMobile": "false",
-            "getElementorTemplateApiUrl": "https:\/\/www.EcoWeb.org\/wp-json\/jet-menu-api\/v2\/get-elementor-template-content",
-            "getBlocksTemplateApiUrl": "https:\/\/www.EcoWeb.org\/wp-json\/jet-menu-api\/v2\/get-blocks-template-content",
-            "menuItemsApiUrl": "https:\/\/www.EcoWeb.org\/wp-json\/jet-menu-api\/v2\/get-menu-items",
+            "getElementorTemplateApiUrl": "https:\/\/www.weforest.org\/wp-json\/jet-menu-api\/v2\/get-elementor-template-content",
+            "getBlocksTemplateApiUrl": "https:\/\/www.weforest.org\/wp-json\/jet-menu-api\/v2\/get-blocks-template-content",
+            "menuItemsApiUrl": "https:\/\/www.weforest.org\/wp-json\/jet-menu-api\/v2\/get-menu-items",
             "restNonce": "6fee50b0be",
             "devMode": "false",
             "wpmlLanguageCode": "en",
@@ -3737,7 +3737,7 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-menu/assets/public/js/legacy/jet-menu-public-scripts.js?ver=2.4.2'
+        src='https://www.weforest.org/wp-content/plugins/jet-menu/assets/public/js/legacy/jet-menu-public-scripts.js?ver=2.4.2'
         id='jet-menu-public-scripts-js'></script>
     <script id="jet-menu-public-scripts-js-after" type="text/javascript">
         function CxCSSCollector() {
@@ -3750,29 +3750,29 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0'
+        src='https://www.weforest.org/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0'
         id='jet-plugins-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-popup/assets/js/lib/anime-js/anime.min.js?ver=2.0.2'
+        src='https://www.weforest.org/wp-content/plugins/jet-popup/assets/js/lib/anime-js/anime.min.js?ver=2.0.2'
         id='jet-anime-js-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-popup/assets/js/lib/waypoints/jquery.waypoints.min.js?ver=2.0.2'
+        src='https://www.weforest.org/wp-content/plugins/jet-popup/assets/js/lib/waypoints/jquery.waypoints.min.js?ver=2.0.2'
         id='jet-waypoints-js-js'></script>
     <script type='text/javascript' id='jet-popup-frontend-js-extra'>
         /* <![CDATA[ */
         var jetPopupData = {
             "version": "2.0.2.1",
-            "ajax_url": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
+            "ajax_url": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
             "isElementor": "true"
         };
         /* ]]> */
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.js?ver=2.0.2.1'
+        src='https://www.weforest.org/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.js?ver=2.0.2.1'
         id='jet-popup-frontend-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/uploads/essential-addons-elementor/eael-6144.js?ver=1697645106'
+        src='https://www.weforest.org/wp-content/uploads/essential-addons-elementor/eael-6144.js?ver=1697645106'
         id='eael-6144-js'></script>
     <script type='text/javascript'
         src='https://www.google.com/recaptcha/api.js?render=6LeFLm0iAAAAACgKtE6POEZFR5tDvXWvI8PgtU7_&#038;ver=3.0'
@@ -3790,13 +3790,13 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.3'
+        src='https://www.weforest.org/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.3'
         id='wpcf7-recaptcha-js'></script>
     <script type='text/javascript' id='sti-script-js-extra'>
         /* <![CDATA[ */
         var sti_vars = {
-            "ajaxurl": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
-            "homeurl": "https:\/\/www.EcoWeb.org\/",
+            "ajaxurl": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
+            "homeurl": "https:\/\/www.weforest.org\/",
             "selector": "img.wp-image-8395",
             "title": "",
             "summary": "",
@@ -3804,7 +3804,7 @@
             "url_structure": "\/%postname%\/",
             "minWidth": "150",
             "minHeight": "150",
-            "sharer": "https:\/\/www.EcoWeb.org\/wp-content\/plugins\/share-this-image\/sharer.php",
+            "sharer": "https:\/\/www.weforest.org\/wp-content\/plugins\/share-this-image\/sharer.php",
             "position": "image",
             "analytics": "",
             "buttons": {
@@ -3826,7 +3826,7 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/share-this-image/assets/js/sti.min.js?ver=1.87'
+        src='https://www.weforest.org/wp-content/plugins/share-this-image/assets/js/sti.min.js?ver=1.87'
         id='sti-script-js'></script>
     <script type='text/javascript' id='ivory-search-scripts-js-extra'>
         /* <![CDATA[ */
@@ -3837,31 +3837,31 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.4'
+        src='https://www.weforest.org/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.4'
         id='ivory-search-scripts-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min.js?ver=8.4.5'
+        src='https://www.weforest.org/wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min.js?ver=8.4.5'
         id='swiper-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/powerpack-lite-for-elementor/assets/js/min/frontend.min.js?ver=2.7.11'
+        src='https://www.weforest.org/wp-content/plugins/powerpack-lite-for-elementor/assets/js/min/frontend.min.js?ver=2.7.11'
         id='powerpack-frontend-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1'
         id='jquery-numerator-js'></script>
     <script type='text/javascript' defer
-        src='https://www.EcoWeb.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.9'
+        src='https://www.weforest.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.9'
         id='mc4wp-forms-api-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.17.1'
+        src='https://www.weforest.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.17.1'
         id='elementor-pro-webpack-runtime-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3'
         id='elementor-webpack-runtime-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3'
         id='elementor-frontend-modules-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'>
+        src='https://www.weforest.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'>
     </script>
     <script id="wp-i18n-js-after" type="text/javascript">
         wp.i18n.setLocaleData({
@@ -3871,11 +3871,11 @@
     </script>
     <script id="elementor-pro-frontend-js-before" type="text/javascript">
         var ElementorProFrontendConfig = {
-            "ajaxurl": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
             "nonce": "621a424004",
             "urls": {
-                "assets": "https:\/\/www.EcoWeb.org\/wp-content\/plugins\/elementor-pro\/assets\/",
-                "rest": "https:\/\/www.EcoWeb.org\/wp-json\/"
+                "assets": "https:\/\/www.weforest.org\/wp-content\/plugins\/elementor-pro\/assets\/",
+                "rest": "https:\/\/www.weforest.org\/wp-json\/"
             },
             "shareButtonsNetworks": {
                 "facebook": {
@@ -3947,18 +3947,18 @@
                 "app_id": ""
             },
             "lottie": {
-                "defaultAnimationUrl": "https:\/\/www.EcoWeb.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+                "defaultAnimationUrl": "https:\/\/www.weforest.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
             }
         };
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.17.1'
+        src='https://www.weforest.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.17.1'
         id='elementor-pro-frontend-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'
         id='elementor-waypoints-js'></script>
-    <script type='text/javascript' src='https://www.EcoWeb.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2'
+    <script type='text/javascript' src='https://www.weforest.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2'
         id='jquery-ui-core-js'></script>
     <script id="elementor-frontend-js-before" type="text/javascript">
         var elementorFrontendConfig = {
@@ -4057,7 +4057,7 @@
                 "e_scroll_snap": true
             },
             "urls": {
-                "assets": "https:\/\/www.EcoWeb.org\/wp-content\/plugins\/elementor\/assets\/"
+                "assets": "https:\/\/www.weforest.org\/wp-content\/plugins\/elementor\/assets\/"
             },
             "swiperClass": "swiper-container",
             "settings": {
@@ -4077,7 +4077,7 @@
             },
             "post": {
                 "id": 6144,
-                "title": "EcoWeb%3A%20Sustainable%20Reforestation%20Solutions",
+                "title": "WeForest%3A%20Sustainable%20Reforestation%20Solutions",
                 "excerpt": "",
                 "featuredImage": false
             }
@@ -4085,30 +4085,30 @@
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3'
         id='elementor-frontend-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.17.1'
+        src='https://www.weforest.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.17.1'
         id='pro-elements-handlers-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/legacy/widgets-scripts.js?ver=2.4.2'
+        src='https://www.weforest.org/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/legacy/widgets-scripts.js?ver=2.4.2'
         id='jet-menu-elementor-widgets-scripts-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-popup/includes/elementor/assets/js/jet-popup-elementor-frontend.js?ver=2.0.2.1'
+        src='https://www.weforest.org/wp-content/plugins/jet-popup/includes/elementor/assets/js/jet-popup-elementor-frontend.js?ver=2.0.2.1'
         id='jet-popup-elementor-frontend-js'></script>
     <script type='text/javascript' id='jet-tabs-frontend-js-extra'>
         /* <![CDATA[ */
         var JetTabsSettings = {
-            "ajaxurl": "https:\/\/www.EcoWeb.org\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "https:\/\/www.weforest.org\/wp-admin\/admin-ajax.php",
             "isMobile": "false",
-            "templateApiUrl": "https:\/\/www.EcoWeb.org\/wp-json\/jet-tabs-api\/v1\/elementor-template",
+            "templateApiUrl": "https:\/\/www.weforest.org\/wp-json\/jet-tabs-api\/v1\/elementor-template",
             "devMode": "false"
         };
         /* ]]> */
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.1.25.3'
+        src='https://www.weforest.org/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.1.25.3'
         id='jet-tabs-frontend-js'></script>
     <script type='text/javascript' id='wp-util-js-extra'>
         /* <![CDATA[ */
@@ -4120,7 +4120,7 @@
         /* ]]> */
 
     </script>
-    <script type='text/javascript' src='https://www.EcoWeb.org/wp-includes/js/wp-util.min.js?ver=6.3.2'
+    <script type='text/javascript' src='https://www.weforest.org/wp-includes/js/wp-util.min.js?ver=6.3.2'
         id='wp-util-js'></script>
     <script type='text/javascript' id='jupiterx-core-raven-frontend-js-extra'>
         /* <![CDATA[ */
@@ -4167,16 +4167,16 @@
             ]
         };
         var lottie_defaultAnimationUrl = {
-            "url": "https:\/\/www.EcoWeb.org\/wp-content\/plugins\/jupiterx-core\/includes\/extensions\/raven\/assets\/animations\/default.json"
+            "url": "https:\/\/www.weforest.org\/wp-content\/plugins\/jupiterx-core\/includes\/extensions\/raven\/assets\/animations\/default.json"
         };
         /* ]]> */
 
     </script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/js/frontend.min.js?ver=6.3.2'
+        src='https://www.weforest.org/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/js/frontend.min.js?ver=6.3.2'
         id='jupiterx-core-raven-frontend-js'></script>
     <script type='text/javascript'
-        src='https://www.EcoWeb.org/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4'
+        src='https://www.weforest.org/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4'
         id='flatpickr-js'></script>
     <script type="text/javascript">
         (function () {
