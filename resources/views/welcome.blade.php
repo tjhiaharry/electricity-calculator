@@ -160,7 +160,7 @@
                 <div class="col-md-12">
                     <div class="section-heading">
                         <h2>Your <em>Appliances</em></h2>
-                        <span>Suspendisse a ante in neque iaculis lacinia</span>
+                        <span>Use your appliances wisely!</span>
                     </div>
                 </div>
                 <div class="col-md-4">
